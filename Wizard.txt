@@ -1,0 +1,8 @@
+
+name=“HeaTV Wizard”
+url="https://github.com/heatv/repo/blob/master/BuildTest.zip?raw=true"
+img="https://raw.githubusercontent.com/heatv/repo/master/Icon.png“
+fanart="https://raw.githubusercontent.com/heatv/repo/master/Logo.jpg"
+description="My new Wizard with help from HeaTv”
+
+
